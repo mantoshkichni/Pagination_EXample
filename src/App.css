@@ -1,0 +1,78 @@
+Skip to content
+Product 
+Team
+Enterprise
+Explore 
+Marketplace
+Pricing 
+Search
+Sign in
+Sign up
+bradtraversy
+/
+simple_react_pagination
+Public
+Code
+Issues
+1
+Pull requests
+19
+Actions
+Projects
+Wiki
+Security
+Insights
+simple_react_pagination/src/App.css
+@bradtraversy
+bradtraversy Initial commit from Create React App
+Latest commit 8c2b357 on 22 Jun 2019
+ History
+ 1 contributor
+33 lines (29 sloc)  492 Bytes
+   
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
